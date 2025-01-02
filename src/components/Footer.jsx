@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer id="contact" className="bg-gray-800 text-white py-6 text-center">
       <p>© 2025 [Your Name]. All rights reserved.</p>
-      <p>Contact: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+      <p>Contact: <a href="wachirasilvia8@gmail.com">wachirasilvia8@gmail.com</a></p>
     </footer>
   );
 };

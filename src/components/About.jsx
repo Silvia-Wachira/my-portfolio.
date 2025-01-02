@@ -5,7 +5,7 @@ const About = () => {
     <section id="about" className="py-10 px-4 bg-gray-100">
       <h2 className="text-3xl text-center font-bold">About Me</h2>
       <p className="mt-4 text-center">
-        I'm a software developer with a background in [your skills/field]. I love building
+        I'm a software developer skilled in JavaScript, React, Python and Django . I love building
         applications that solve real-world problems and learning new technologies.
       </p>
     </section>

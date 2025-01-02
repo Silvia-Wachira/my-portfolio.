@@ -2,14 +2,14 @@ import React from 'react';
 
 const projects = [
   {
-    title: "Project 1",
-    description: "A cool project that does amazing things.",
-    link: "https://github.com/yourproject",
+    title: "customer-order-system",
+    description: "A full-featured platform for managing customer orders efficiently, designed to streamline order processing, inventory updates, and customer interactions. Tech Highlights: Backend: Python (Django), REST APIs,Database: PostgreSQL Tools: Docker.",
+    link: "https://github.com/Silvia-Wachira/customer-order-system",
   },
   {
-    title: "Project 2",
-    description: "Another project with incredible features.",
-    link: "https://github.com/yourproject2",
+    title: "Vallie's Real Estate",
+    description: "This is a project creating the website of a business called Vallies Real Estate..",
+    link: "https://github.com/Silvia-Wachira/Vallie-s-Real-Estate",
   },
 ];
 
